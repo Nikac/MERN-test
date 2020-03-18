@@ -29,6 +29,7 @@ const Home = () => {
     <div>
       <h1>Home page</h1>
       <hr />
+      <p>We are adding a pargraph to home component.</p>
       {city && (
         <div>
           <h1>
